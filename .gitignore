@@ -88,4 +88,5 @@ ENV/
 # Rope project settings
 .ropeproject
 
-# modules/Constants.py
+# Constants
+modules/Constants.py
